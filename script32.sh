@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sample_name=('sapiens' 'neanthertal' 'denisova')
+sample_name=('sapiens' 'neanthertal' 'florensis')
 
 for sample in ${sample_name[@]}
 
